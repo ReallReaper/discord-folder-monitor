@@ -1,7 +1,8 @@
 ## **English:**
 Repository Name: discord-folder-monitor
 
-# Description: This repository contains a Ruby script that monitors changes in the Discord folder within the user's profile directory. It provides real-time notifications when files are created or deleted in the Discord folder.
+# Description: 
+This repository contains a Ruby script that monitors changes in the Discord folder within the user's profile directory. It provides real-time notifications when files are created or deleted in the Discord folder.
 
 ## Additional Notes:
 - The script is designed to be user-friendly and easy to set up.
@@ -17,7 +18,8 @@ Repository Name: discord-folder-monitor
 ## **Español:**
 Nombre del Repositorio: discord-folder-monitor
 
-# Descripción: Este repositorio contiene un script en Ruby que monitorea cambios en la carpeta de Discord dentro del directorio de perfil del usuario. Proporciona notificaciones en tiempo real cuando se crean o eliminan archivos en la carpeta de Discord.
+# Descripción: 
+Este repositorio contiene un script en Ruby que monitorea cambios en la carpeta de Discord dentro del directorio de perfil del usuario. Proporciona notificaciones en tiempo real cuando se crean o eliminan archivos en la carpeta de Discord.
 
 ## Notas Adicionales:
 - El script está diseñado para ser fácil de usar y configurar.
@@ -33,7 +35,8 @@ Nombre del Repositorio: discord-folder-monitor
 ## **Русский (Ruso):**
 Название репозитория: discord-folder-monitor
 
-# Описание: В этом репозитории содержится сценарий на Ruby, который отслеживает изменения в папке Discord внутри профильной директории пользователя. Он предоставляет уведомления в реальном времени, когда файлы создаются или удаляются в папке Discord.
+# Описание: 
+В этом репозитории содержится сценарий на Ruby, который отслеживает изменения в папке Discord внутри профильной директории пользователя. Он предоставляет уведомления в реальном времени, когда файлы создаются или удаляются в папке Discord.
 
 ## Дополнительные заметки:
 - Скрипт разработан с учетом удобства использования и настройки.
